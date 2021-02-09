@@ -1,5 +1,5 @@
 var nome = "Everton Cristian Comel";
-var cargo = "DEVELOPER IN TRAINING";
+var cargo = "Desenvolvedor em treinamento";
 
 var nomehtml = document.getElementById("nome-no-html");
 var cargoHtml = document.getElementById("cargo-no-html");
